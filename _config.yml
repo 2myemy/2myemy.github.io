@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "MY's Home"
+title                    : "Myungyeon Chloe Lee"
 title_separator          : "-"
 subtitle                 : This is MyoungYeon's Home
-name                     : "MY'S HOME"
-description              : "This is MyoungYeon's home"
+name                     : "Myungyeon Chloe Lee"
+description              : "Welcome to my engineering blog!"
 url                      : "https://2myemy.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,7 +108,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lee Myoung Yeon"
+  name             : "Myungyeon Chloe Lee"
   avatar           : "https://user-images.githubusercontent.com/49894861/64501470-79e2a980-d2fc-11e9-8aff-02197d17e7b3.jpg"
   bio              : "Weeds are **flowers** too once you get to know them :)"
   location         : "Seoul"
@@ -119,7 +119,7 @@ author:
       # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://master.d2uwrvm6a8nrnx.amplifyapp.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -128,10 +128,13 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/2myemy"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/the-chloest/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/emy2my"
+      # url: "https://instagram.com/theChloest"
 
 # Site Footer
 footer:
