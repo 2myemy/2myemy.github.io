@@ -1,5 +1,5 @@
 ---
-title: "Programmers - 해시 베스트앨범"
+title: "Programmers algorithm - hash"
 date: 2020-05-16 08:26:28 -0400
 categories: algorithm
 ---

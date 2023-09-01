@@ -1,5 +1,5 @@
 ---
-title: "Programmers - 스택/큐 주식가격"
+title: "Programmers algorithm - stack/queue"
 date: 2020-05-16 08:26:28 -0400
 categories: algorithm
 ---

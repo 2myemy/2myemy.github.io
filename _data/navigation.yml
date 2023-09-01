@@ -1,9 +1,5 @@
 main:
   - title: "Profile"
     url: /my-profile/
-  - title: "Travel Records"
-    url: /categories/travels/
   - title: "Algorithm"
     url: /categories/algorithm/
-  - title: "Post by categories"
-    url: /categories/

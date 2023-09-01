@@ -1,5 +1,5 @@
 ---
-title: "Programmers - 스택/큐 프린터"
+title: "Programmers algorithm - stack/queue"
 date: 2020-05-08 08:26:28 -0400
 categories: algorithm
 ---
