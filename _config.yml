@@ -109,10 +109,10 @@ analytics:
 # Site Author
 author:
   name             : "Chloe Myungyeon Lee"
-  avatar           : "https://github.com/2myemy/2myemy.github.io/assets/49894861/f4ed3787-ba1a-4918-8c4a-cf183c744ba7"
-  bio              : "Software engineer with three years of experience. Passionate about creating efficient websites with JavaScript, HTML/CSS :)"
+  avatar           : "https://github.com/2myemy/2myemy.github.io/assets/49894861/c7455511-791e-4b7e-8111-4b30ad0e930c"
+  bio              : "Software engineer, Passionate about creating efficient websites with JavaScript, HTML/CSS :)"
   location         : "San Francisco Bay Area"
-  email            : "chloe.artache@gmail.com"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
